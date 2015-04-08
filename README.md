@@ -14,7 +14,7 @@ You can choose
  - a folder which contains images of any size(which can be big as you want - but on Pissotta is just 64)
  - the number of boards you need 
 
-and voilà, you get a perfectly sized pdf ready for printing; it takes care of everything for you: resize images, generate random sequence, make sure no duplicates are generated, assemble them together ad so on.
+and voilà, you get thousands of boards in a perfectly sized pdf ready for printing; it takes care of everything for you: resize images, generate random sequence, make sure no duplicates are generated, assemble them together ad so on.
 
 I made it for my Italian Scout group which was celebrating 70° anniversary, so there is included the library we used based on some public domain scout-based images.
 
